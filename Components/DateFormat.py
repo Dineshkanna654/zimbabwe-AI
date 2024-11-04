@@ -1,6 +1,4 @@
 from datetime import datetime
-
-
 def standardize_date(date):
     formats = [
         '%d %m %Y',  # 30 10 2024
